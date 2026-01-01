@@ -2,7 +2,9 @@
 <img width="2752" height="1536" alt="Algorithmic Success Versus Brand Dilution" src="https://github.com/user-attachments/assets/178fd88b-a05f-4b2a-9a4a-0f25d4fe66c8" />
 
 ## Project Overview
-This project evaluates the business performance of independent artist "Big Nose" following a strategic pivot to Lofi/Instrumental music in 2021. By correlating financial data with audience engagement metrics, this analysis seeks to answer a critical business question: **Did the pivot create a sustainable brand, or merely generate passive algorithmic success?**
+This project evaluates the business performance of independent artist "Big Nose" following a strategic pivot to Lofi/Instrumental music in 2021. 
+By correlating financial data with audience engagement metrics, this analysis seeks to answer a critical business question:
+**Did the pivot create a sustainable brand, or merely generate passive algorithmic success?**
 
 The analysis determines that while the pivot was financially lucrative, it resulted in significant brand dilution, characterizing the artist as a "Passive Algorithmic Success" rather than an "Upcoming Brand".
 
