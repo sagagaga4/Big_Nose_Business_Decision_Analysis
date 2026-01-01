@@ -1,0 +1,88 @@
+
+BIG NOSE ARTIST - COMPREHENSIVE BUSINESS ANALYSIS REPORT
+Generated: 2025-12-24 18:49:18
+================================================================================
+
+EXECUTIVE SUMMARY
+-----------------
+Artist: Big Nose
+Analysis Period: Last 5 years (earnings), Last 1 year (performance)
+Assessment: PROMISING UPCOMING ARTIST (6.0/10.0)
+
+KEY METRICS
+-----------
+Total Earnings (All Time): $1,985.95
+Total Streams (Last Year): 196,561
+Total Listeners (Last Year): 85,557
+Total Followers (Current): 544
+Follower Growth (Last Year): +24 (+4.6%)
+
+RECENT METRICS (Last 28 Days)
+------------------------------
+Monthly Active Listeners: 733
+Previously Active Listeners: 12,766
+Programmed Listeners: 205,368
+Total Reach: 218,867
+Engagement Rate: 0.33%
+
+TOP PERFORMING SONGS (Earnings)
+--------------------------------
+NANA: $845.22 (1,498 streams)
+dust: $334.51 (354 streams)
+Fingerboarding: $181.57 (12,882 streams)
+Elephants: $169.98 (3,982 streams)
+Leaving the Suburbs: $122.50 (831 streams)
+
+KEY INSIGHTS
+------------
+1. Revenue Concentration: Top 5 songs generate 83.3% of total earnings
+   → High dependency on few hits; need diversification strategy
+
+2. Audience Growth: Follower growth of 4.6% in last year
+   → Positive growth trajectory; maintain engagement strategies
+
+3. Engagement: Low engagement rate (0.33%) - high programmed listener ratio
+   → Focus on converting programmed listeners to active fans
+
+4. Content Strategy: Average 16.7 songs released per year
+   → Maintain consistent release schedule to build momentum
+
+5. Fan Engagement: Save rate of 0.42% indicates moderate fan loyalty
+   → Improve save rate through better song quality and marketing
+
+
+STRATEGIC RECOMMENDATIONS
+--------------------------
+1. [HIGH] Diversify Revenue Streams
+   Top 5 songs account for 83.3% of earnings. Focus on promoting mid-tier songs and creating new hits.
+   Expected Impact: Reduce revenue risk by 30-40%
+   Timeline: 3-6 months
+
+2. [HIGH] Convert Programmed Listeners to Active Fans
+   Only 0.33% monthly active engagement. Implement playlist optimization and social media campaigns.
+   Expected Impact: Increase active listeners by 50-100%
+   Timeline: 2-4 months
+
+3. [MEDIUM] Maintain Consistent Release Schedule
+   Current average of 16.7 songs/year. Aim for monthly releases to maintain momentum.
+   Expected Impact: Increase streams by 20-30%
+   Timeline: Ongoing
+
+4. [MEDIUM] Leverage Playlist Placements
+   Currently featured in 99 playlists generating 156,046 streams. Focus on getting into larger playlists.
+   Expected Impact: Increase reach by 40-60%
+   Timeline: 3-6 months
+
+5. [MEDIUM] Promote High-Potential Songs
+   Identify songs with high save rates but low streams. These indicate strong fan interest that can be amplified.
+   Expected Impact: Increase streams for selected songs by 100-200%
+   Timeline: 1-3 months
+
+
+ASSESSMENT CONCLUSION
+----------------------
+Big Nose shows promise as an upcoming artist with several positive indicators. However, there are areas that need attention to accelerate growth.
+
+Overall Score: 6.0/10.0 (60.0%)
+
+================================================================================
