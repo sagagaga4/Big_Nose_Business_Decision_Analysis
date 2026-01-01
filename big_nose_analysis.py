@@ -16,8 +16,8 @@ plt.style.use('seaborn-v0_8-darkgrid')
 sns.set_palette("husl")
 
 # Configuration
-DATA_DIR = "/Users/saginachum/Desktop/Studies/HIT/שנה ב/סמסטר א/Data_Analyst"
-OUTPUT_DIR = "/Users/saginachum/Desktop/Studies/HIT/שנה ב/סמסטר א/Data_Analyst/analysis_output"
+DATA_DIR = "***"
+OUTPUT_DIR = "***"
 
 import os
 os.makedirs(OUTPUT_DIR, exist_ok=True)
